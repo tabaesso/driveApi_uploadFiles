@@ -1,0 +1,5 @@
+token_directory
+.vscode
+.settings
+.gradle
+src/main/java/credentials.json
